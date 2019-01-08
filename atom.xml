@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Hexo</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2019-01-08T03:10:10.684Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>xinyuan</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>经济标开标准备</title>
+    <link href="http://yoursite.com/2019/01/08/21%20%20%20%20%E7%BB%8F%E6%B5%8E%E6%A0%87%E5%BC%80%E6%A0%87%E5%87%86%E5%A4%87/"/>
+    <id>http://yoursite.com/2019/01/08/21    经济标开标准备/</id>
+    <published>2019-01-08T03:10:10.683Z</published>
+    <updated>2019-01-08T03:10:10.684Z</updated>
+    
+    <content type="html"><![CDATA[<p>21    “经济标开标准备”         </p><p>比价规则由招标经办人制定，须经过采购合约部主管领导审批。     </p><p>规范业务操作。                         </p><pre><code>1. 招标经办人设置比价规则后，发起采购合约部领导审批，系统推送待办通知；审批支持通过、不通过。不通过可以录入审批意见；2. 如果审批不通过，招标经办人根据采购合约部领导的审批意见调整比价规则；3. 审批通过后，比价规则不能再进行调整。</code></pre>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;21    “经济标开标准备”         &lt;/p&gt;
+&lt;p&gt;比价规则由招标经办人制定，须经过采购合约部主管领导审批。     &lt;/p&gt;
+&lt;p&gt;规范业务操作。                         &lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;1. 招标经办人设置比价规则后，
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>经济标开标准备</title>
+    <link href="http://yoursite.com/2019/01/08/%E6%B5%8B%E8%AF%95/21%20%20%20%20%E7%BB%8F%E6%B5%8E%E6%A0%87%E5%BC%80%E6%A0%87%E5%87%86%E5%A4%87/"/>
+    <id>http://yoursite.com/2019/01/08/测试/21    经济标开标准备/</id>
+    <published>2019-01-08T01:47:14.518Z</published>
+    <updated>2019-01-08T02:45:39.378Z</updated>
+    
+    <content type="html"><![CDATA[<p>21    “经济标开标准备”         </p><p>比价规则由招标经办人制定，须经过采购合约部主管领导审批。     </p><p>规范业务操作。                         </p><pre><code>1. 招标经办人设置比价规则后，发起采购合约部领导审批，系统推送待办通知；审批支持通过、不通过。不通过可以录入审批意见；2. 如果审批不通过，招标经办人根据采购合约部领导的审批意见调整比价规则；3. 审批通过后，比价规则不能再进行调整。</code></pre>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;21    “经济标开标准备”         &lt;/p&gt;
+&lt;p&gt;比价规则由招标经办人制定，须经过采购合约部主管领导审批。     &lt;/p&gt;
+&lt;p&gt;规范业务操作。                         &lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;1. 招标经办人设置比价规则后，
+      
+    
+    </summary>
+    
+      <category term="测试" scheme="http://yoursite.com/categories/%E6%B5%8B%E8%AF%95/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>new md</title>
+    <link href="http://yoursite.com/2019/01/08/new-md/"/>
+    <id>http://yoursite.com/2019/01/08/new-md/</id>
+    <published>2019-01-08T01:45:33.000Z</published>
+    <updated>2019-01-08T01:45:33.237Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://yoursite.com/2019/01/08/hello-world/"/>
+    <id>http://yoursite.com/2019/01/08/hello-world/</id>
+    <published>2019-01-08T01:25:09.264Z</published>
+    <updated>2019-01-08T01:25:09.264Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
